@@ -1,0 +1,14 @@
+{
+  "name": "SliceRevealer",
+  "homepage": "https://github.com/codrops/SliceRevealer",
+  "_release": "8aa5b3e7d3",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "8aa5b3e7d3e436cda711310f421736eb865c99c7"
+  },
+  "_source": "https://github.com/codrops/SliceRevealer.git",
+  "_target": "*",
+  "_originalSource": "https://github.com/codrops/SliceRevealer.git",
+  "_direct": true
+}

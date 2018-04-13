@@ -1,0 +1,14 @@
+{
+  "name": "DecorativeLetterAnimations",
+  "homepage": "https://github.com/codrops/DecorativeLetterAnimations",
+  "_release": "eb27c6bd82",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "eb27c6bd821a11f8e4b4b4c29b1db44d15880764"
+  },
+  "_source": "https://github.com/codrops/DecorativeLetterAnimations.git",
+  "_target": "*",
+  "_originalSource": "https://github.com/codrops/DecorativeLetterAnimations.git",
+  "_direct": true
+}

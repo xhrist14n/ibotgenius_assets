@@ -1,0 +1,14 @@
+{
+  "name": "Blotter",
+  "homepage": "https://github.com/bradley/Blotter",
+  "_release": "0e12365697",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "0e1236569790e536bd0dc6cf5555ed8e7d0e89e4"
+  },
+  "_source": "https://github.com/bradley/Blotter.git",
+  "_target": "*",
+  "_originalSource": "https://github.com/bradley/Blotter.git",
+  "_direct": true
+}
